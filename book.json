@@ -31,10 +31,10 @@
     "pdf": {
         "paperSize": "a4",
         "margin": { 
-            "top": 48,
-            "bottom": 48,
-            "left": 36,
-            "right": 36
+            "top": 40,
+            "bottom": 40,
+            "left": 30,
+            "right": 30
         }
     }
 }
